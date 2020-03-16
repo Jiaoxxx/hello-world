@@ -1,0 +1,19 @@
+//c
+#include <stdio.h>
+int main()
+{
+  printf("hello world!");
+  return 0;
+}
+
+#python
+print('hello world!')
+
+//c++
+#include <iostream>
+using namespace std;
+int main()
+{
+  cout<<"hello world!"<<endl;
+  return 0;
+}
